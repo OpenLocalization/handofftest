@@ -1,0 +1,581 @@
+<xliffext:root xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+  <xliffext:skl>
+    <xliffext:mroot>
+      <xliffext:mta>
+        <xliffext:name>name</xliffext:name>
+        <xliffext:value>%%%1%%%</xliffext:value>
+        <xliffext:type>System.String</xliffext:type>
+      </xliffext:mta>
+    </xliffext:mroot>
+    <xliffext:content>
+      <markdown_skeleton_root>
+        <block_element>
+          <MarkdownContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <MarkdownParagraphBlock item_id="8257fe01-9c98-4aac-a718-605297995bfe" item_type="NormalParagraph">
+              <paragraph_segments>
+                <MarkdownSegment>
+                  <SegmentId>bc66b8a5-2ad6-45a3-b8c9-cb759698f6f8</SegmentId>
+                  <InternalNormalItem internal_item_id="a9b05d14-8812-4372-bb21-9f92d7d7e04f" internal_item_type="Normal">
+                    <internalitemvalue>%%%2%%%</internalitemvalue>
+                  </InternalNormalItem>
+                </MarkdownSegment>
+              </paragraph_segments>
+            </MarkdownParagraphBlock>
+            <MarkdownParagraphBlock item_id="15250183-157f-4bf5-b599-14de069faa58" item_type="NormalParagraph">
+              <paragraph_segments>
+                <MarkdownSegment>
+                  <SegmentId>7925ce52-d894-4fc3-92b8-5a46e37c1943</SegmentId>
+                  <InternalNormalItem internal_item_id="7669176f-b33a-4858-bd5c-fffe650b71dc" internal_item_type="Normal">
+                    <internalitemvalue>%%%3%%%</internalitemvalue>
+                  </InternalNormalItem>
+                </MarkdownSegment>
+              </paragraph_segments>
+            </MarkdownParagraphBlock>
+            <MarkdownHeaderBlock item_id="a8b2b60f-920f-4934-8c08-c4ba75a5d72d" item_type="Header">
+              <headervalue>%%%4%%%</headervalue>
+              <header_type>Star</header_type>
+              <header_level>1</header_level>
+            </MarkdownHeaderBlock>
+            <MarkdownParagraphBlock item_id="312dc517-6648-4d84-89a4-be1cce8c9d3c" item_type="NormalParagraph">
+              <paragraph_segments>
+                <MarkdownSegment>
+                  <SegmentId>2fd03935-a7e2-4708-aa23-03f42a0d9562</SegmentId>
+                  <InternalNormalItem internal_item_id="708e1378-0332-4983-a60a-50ce9f7d8d82" internal_item_type="Normal">
+                    <internalitemvalue>%%%5%%%</internalitemvalue>
+                  </InternalNormalItem>
+                </MarkdownSegment>
+              </paragraph_segments>
+            </MarkdownParagraphBlock>
+            <MarkdownHeaderBlock item_id="68062555-24d0-41ae-8a84-f84854de1f40" item_type="Header">
+              <headervalue>%%%6%%%</headervalue>
+              <header_type>Star</header_type>
+              <header_level>2</header_level>
+            </MarkdownHeaderBlock>
+            <MarkdownParagraphBlock item_id="8d55c725-9afc-4094-97a2-b496b6a31046" item_type="NormalParagraph">
+              <paragraph_segments>
+                <MarkdownSegment>
+                  <SegmentId>ef6c7da4-b8a8-4c19-b6b9-a37586ed787f</SegmentId>
+                  <InternalNormalItem internal_item_id="39163060-0ab4-4511-aeb8-62e9fca904e2" internal_item_type="Normal">
+                    <internalitemvalue>%%%7%%%</internalitemvalue>
+                  </InternalNormalItem>
+                </MarkdownSegment>
+              </paragraph_segments>
+            </MarkdownParagraphBlock>
+            <MarkdownListBlock item_id="ff707ee4-bbe2-4a39-a132-2e67eb8072e4" item_type="List">
+              <inner_list_items>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="2b3b5f9d-25e4-4b2f-a17d-46175b2e5a6a" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>a6cb59b8-e445-4fd9-8570-ee0a35a394cb</SegmentId>
+                        <InternalNormalItem internal_item_id="eff2cd4a-71ea-40a0-b6d6-a0c213ceab16" internal_item_type="Normal">
+                          <internalitemvalue>%%%8%%%</internalitemvalue>
+                        </InternalNormalItem>
+                        <BoldItem internal_item_id="80afc82d-5aa7-4705-a259-898f8ee81b47" internal_item_type="Bold">
+                          <boldvalue>%%%9%%%</boldvalue>
+                          <internal_itatic_bold_item_type>Star</internal_itatic_bold_item_type>
+                        </BoldItem>
+                        <InternalNormalItem internal_item_id="e9759084-c505-4a35-867a-4b5f3c073b33" internal_item_type="Normal">
+                          <internalitemvalue>%%%10%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                  <MarkdownListBlock item_id="ea8e6122-cb87-4050-8912-9f04d95ef03c" item_type="List">
+                    <inner_list_items>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="e27bb512-bed8-4ff6-9085-25f3d15def5b" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>978ccd7e-50fd-4625-a601-fd35ab82410d</SegmentId>
+                              <InternalNormalItem internal_item_id="5496bc30-2c14-45ed-a397-804dd8745351" internal_item_type="Normal">
+                                <internalitemvalue>%%%11%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>17a8fd11-2ac2-45b1-aa23-50fa2ef0f054</SegmentId>
+                              <InternalNormalItem internal_item_id="e842a9c8-ff91-4a24-b5a2-319fcc370609" internal_item_type="Normal">
+                                <internalitemvalue>%%%12%%%</internalitemvalue>
+                              </InternalNormalItem>
+                              <LinkItem internal_item_id="7189e823-4b0e-4222-bd57-6d15fb90a06c" internal_item_type="Link">
+                                <internal_link_type>Inline</internal_link_type>
+                                <internal_link_text>%%%13%%%</internal_link_text>
+                                <internal_link_url>app-service-changes-existing-services.md</internal_link_url>
+                                <internal_link_title />
+                              </LinkItem>
+                              <InternalNormalItem internal_item_id="f0a18524-4c5a-47b5-b96c-1848a9c1a03f" internal_item_type="Normal">
+                                <internalitemvalue>%%%14%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="697f3830-0e3b-438d-92c3-eb6f211a6fdf" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>df5a6e53-7e63-4e79-92d3-83c77d817002</SegmentId>
+                              <InternalNormalItem internal_item_id="ba31179e-70c2-461c-87d6-81e96d9901c4" internal_item_type="Normal">
+                                <internalitemvalue>%%%15%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="efe95797-d555-49f0-a5d7-da14165007d6" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>28625c7d-5cdb-4b17-9507-0a6f56ee6037</SegmentId>
+                              <InternalNormalItem internal_item_id="3de1e601-fc40-44f6-8439-4b81e1a33fc3" internal_item_type="Normal">
+                                <internalitemvalue>%%%16%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="34da491f-4793-4be7-8878-d0493b0353ba" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>9a2aa373-aece-4445-8542-e2042017395c</SegmentId>
+                              <InternalNormalItem internal_item_id="623cd216-318e-4059-880a-34fc29f1a573" internal_item_type="Normal">
+                                <internalitemvalue>%%%17%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="b80140e0-d04e-4462-bc02-3f3c4b449437" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>afdd9fe3-c82a-46d3-bc0a-b130fbf44191</SegmentId>
+                              <InternalNormalItem internal_item_id="5d4c5a6a-f02c-438c-91aa-b7113ebe7d58" internal_item_type="Normal">
+                                <internalitemvalue>%%%18%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>063cbb24-5fcf-41dc-a261-06fe646d7d81</SegmentId>
+                              <InternalNormalItem internal_item_id="71bb556d-74f0-428f-a594-130363dc08f0" internal_item_type="Normal">
+                                <internalitemvalue>%%%19%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="53b0d109-2a38-492f-b5f1-09b4145725dc" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>2a8600d7-2309-4cea-aa0f-6292acc985b0</SegmentId>
+                              <InternalNormalItem internal_item_id="2929d02d-ff8f-48d0-89b0-25594d15780a" internal_item_type="Normal">
+                                <internalitemvalue>%%%20%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="cf0f3959-35b9-4fdc-9b36-8aef695aa75f" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>795b6cfa-8593-45d8-88e0-1519dffe074f</SegmentId>
+                              <InternalNormalItem internal_item_id="006b932a-b9ba-4abe-9ced-878fbc9dab81" internal_item_type="Normal">
+                                <internalitemvalue>%%%21%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                    </inner_list_items>
+                    <ListType>Charactor</ListType>
+                  </MarkdownListBlock>
+                  <MarkdownParagraphBlock item_id="4afc22fa-cb38-4350-aa5e-3705326df60b" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>b29e8661-8adc-49eb-92db-00ceb11ad138</SegmentId>
+                        <InternalNormalItem internal_item_id="8a8280cd-7c70-4730-aab3-251fd4db1754" internal_item_type="Normal">
+                          <internalitemvalue>%%%22%%%</internalitemvalue>
+                        </InternalNormalItem>
+                        <LinkItem internal_item_id="fe0ade5e-f444-4bf0-943c-dca6f7a1a7bf" internal_item_type="Link">
+                          <internal_link_type>Inline</internal_link_type>
+                          <internal_link_text>%%%23%%%</internal_link_text>
+                          <internal_link_url>app-service-release-notes.md#known_issues_2_5_1</internal_link_url>
+                          <internal_link_title />
+                        </LinkItem>
+                        <InternalNormalItem internal_item_id="1a9f12e4-79e9-4ddb-87f0-c1c07716f1a6" internal_item_type="Normal">
+                          <internalitemvalue>%%%24%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="524130f7-f3bf-4d7a-9d49-c0310cedf98a" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>1c6498de-adb4-4428-b2b8-c5b44f194d28</SegmentId>
+                        <InternalNormalItem internal_item_id="a5829ed4-b501-4e5f-86b2-0db933738800" internal_item_type="Normal">
+                          <internalitemvalue>%%%25%%%</internalitemvalue>
+                        </InternalNormalItem>
+                        <BoldItem internal_item_id="d6eee3d2-7d65-4b25-ae05-d43638990d51" internal_item_type="Bold">
+                          <boldvalue>%%%26%%%</boldvalue>
+                          <internal_itatic_bold_item_type>Star</internal_itatic_bold_item_type>
+                        </BoldItem>
+                        <InternalNormalItem internal_item_id="568d2aa8-be63-49eb-b5ad-a5b0237925e3" internal_item_type="Normal">
+                          <internalitemvalue>%%%27%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                  <MarkdownListBlock item_id="dc1df7f1-fae8-42d9-93e3-2de220b47934" item_type="List">
+                    <inner_list_items>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="ab7302a7-0925-422b-a71f-c27de187a471" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>41e7ab44-24ba-4ced-ac1d-a1d0153ca775</SegmentId>
+                              <InternalNormalItem internal_item_id="a8a48f6a-0d72-4b3e-88f1-1a4e9298d77f" internal_item_type="Normal">
+                                <internalitemvalue>%%%28%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>d821b905-4581-4fdf-9368-39e38ad149ab</SegmentId>
+                              <InternalNormalItem internal_item_id="4178663d-44a1-4a5f-aaac-8c5896701b9a" internal_item_type="Normal">
+                                <internalitemvalue>%%%29%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="ec3f12cf-69e8-40e0-a3e8-03fe28a48d74" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>1624917e-b060-4c65-89e0-bd9480c35e22</SegmentId>
+                              <InternalNormalItem internal_item_id="72675898-1d06-43ec-93d1-6adad898e851" internal_item_type="Normal">
+                                <internalitemvalue>%%%30%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>696795fd-2f5b-455a-a869-74d22acfdbd5</SegmentId>
+                              <InternalNormalItem internal_item_id="b9ba9677-8e1d-4e58-9335-cf92780869e4" internal_item_type="Normal">
+                                <internalitemvalue>%%%31%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>a4f5568b-99da-4d14-beaa-9a8db3d0da69</SegmentId>
+                              <InternalNormalItem internal_item_id="84e4e146-fccd-4ec9-a8ef-ef27af3b4ed1" internal_item_type="Normal">
+                                <internalitemvalue>%%%32%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="c0f6c8ca-96d5-47d6-b82b-9b6672466b3a" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>abdbc72d-94e6-4809-85c9-09e2fab69320</SegmentId>
+                              <InternalNormalItem internal_item_id="9f7292af-ecab-4f74-99de-789c41acca9f" internal_item_type="Normal">
+                                <internalitemvalue>%%%33%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>02a03422-12f0-43bf-bcc2-55f87c51f677</SegmentId>
+                              <InternalNormalItem internal_item_id="fe90789f-c593-45b6-b488-8d550b687074" internal_item_type="Normal">
+                                <internalitemvalue>%%%34%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                      <ListItem>
+                        <MarkdownParagraphBlock item_id="8a9ec085-dad2-46f9-9087-0bcd5500d7bc" item_type="NormalParagraph">
+                          <paragraph_segments>
+                            <MarkdownSegment>
+                              <SegmentId>044cf2f4-5963-4e04-9c8a-351cf470cfdf</SegmentId>
+                              <InternalNormalItem internal_item_id="f300357c-f78a-4a0d-8e41-f96b04bbbab0" internal_item_type="Normal">
+                                <internalitemvalue>%%%35%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>f33edd8d-ac51-41d0-9f1c-1d9683c7da1f</SegmentId>
+                              <InternalNormalItem internal_item_id="fb45bc3a-996f-43ca-b7e9-6f63868dcd65" internal_item_type="Normal">
+                                <internalitemvalue>%%%36%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>51718110-cc60-47ea-9404-6e905baf8e2c</SegmentId>
+                              <InternalNormalItem internal_item_id="d24a4880-8a9c-4c61-b43e-501912331439" internal_item_type="Normal">
+                                <internalitemvalue>%%%37%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>b0159408-d2b0-4be4-aa10-3b1322f130a4</SegmentId>
+                              <InternalNormalItem internal_item_id="04e621a0-7837-47fa-b309-fe83c2e11d25" internal_item_type="Normal">
+                                <internalitemvalue>%%%38%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                            <MarkdownSegment>
+                              <SegmentId>ad06551f-0c2e-4b44-8d11-6c760a944509</SegmentId>
+                              <InternalNormalItem internal_item_id="48111ee6-301c-4256-abe7-937907ced83d" internal_item_type="Normal">
+                                <internalitemvalue>%%%39%%%</internalitemvalue>
+                              </InternalNormalItem>
+                            </MarkdownSegment>
+                          </paragraph_segments>
+                        </MarkdownParagraphBlock>
+                      </ListItem>
+                    </inner_list_items>
+                    <ListType>Charactor</ListType>
+                  </MarkdownListBlock>
+                  <MarkdownParagraphBlock item_id="d919b5d6-5eac-4810-aee2-c348f1451080" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>32a064cb-aeed-496e-b51b-36cf9a3d17e7</SegmentId>
+                        <InternalNormalItem internal_item_id="9c5d277f-b5f8-4f40-8bd9-1c0191d8c108" internal_item_type="Normal">
+                          <internalitemvalue>%%%40%%%</internalitemvalue>
+                        </InternalNormalItem>
+                        <LinkItem internal_item_id="c511a8f9-9256-4fd6-8e6a-def3f0bb507b" internal_item_type="Link">
+                          <internal_link_type>Inline</internal_link_type>
+                          <internal_link_text>%%%41%%%</internal_link_text>
+                          <internal_link_url>hdinsight-hadoop-visual-studio-tools-get-started.md</internal_link_url>
+                          <internal_link_title />
+                        </LinkItem>
+                        <InternalNormalItem internal_item_id="25fd0bf7-2ffb-423b-9bf4-27883cbe18c4" internal_item_type="Normal">
+                          <internalitemvalue>%%%42%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+              </inner_list_items>
+              <ListType>Charactor</ListType>
+            </MarkdownListBlock>
+            <MarkdownHeaderBlock item_id="69056680-3cb9-4623-92b7-30a594ccc1cf" item_type="Header">
+              <headervalue>%%%43%%%</headervalue>
+              <header_type>Star</header_type>
+              <header_level>2</header_level>
+            </MarkdownHeaderBlock>
+            <MarkdownListBlock item_id="41b95346-9d6b-4c1b-ba72-8a1456595c4d" item_type="List">
+              <inner_list_items>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="660c6e7f-25fa-4184-a836-9cdfb93a7ca2" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>e3844719-6b27-474e-b605-32a127261c68</SegmentId>
+                        <InternalNormalItem internal_item_id="69630933-f993-4ff9-a584-b473b7094ab4" internal_item_type="Normal">
+                          <internalitemvalue>%%%44%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                      <MarkdownSegment>
+                        <SegmentId>785f4063-bb67-42ad-a993-d85811e3d89c</SegmentId>
+                        <InternalNormalItem internal_item_id="8cf9bdf8-8aed-439f-8ae0-4fe80e4b4615" internal_item_type="Normal">
+                          <internalitemvalue>%%%45%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="a6947f43-4c66-48e5-b5b3-cbcf6bbbec22" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>06575c91-1416-45b1-b224-b2f6761825ce</SegmentId>
+                        <InternalNormalItem internal_item_id="c8ee728f-78be-4a11-98b3-040d5dd855d9" internal_item_type="Normal">
+                          <internalitemvalue>%%%46%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                      <MarkdownSegment>
+                        <SegmentId>11a1691b-30a8-40ab-a9ee-39c084bcfc9d</SegmentId>
+                        <InternalNormalItem internal_item_id="8423722a-0ff3-40e8-b6f2-d07e000d7289" internal_item_type="Normal">
+                          <internalitemvalue>%%%47%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="1a6ff410-7172-4764-a0bd-e72dea6b7155" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>35236145-db99-4a2b-8b7d-bac91cd84353</SegmentId>
+                        <InternalNormalItem internal_item_id="2339fec4-3f8e-4735-be02-eac2348b0271" internal_item_type="Normal">
+                          <internalitemvalue>%%%48%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                      <MarkdownSegment>
+                        <SegmentId>c6ec373f-faeb-4ec9-82f7-24034c2a8303</SegmentId>
+                        <InternalNormalItem internal_item_id="d103bc4e-b8d9-47ce-bcea-4366c58f3fa1" internal_item_type="Normal">
+                          <internalitemvalue>%%%49%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="d1f9429b-d6f9-4dfa-9543-180e66ec42d5" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>25d51b3e-ff40-4a92-bec7-1f82bab94265</SegmentId>
+                        <InternalNormalItem internal_item_id="eb921aae-7d1a-47af-a76e-b86ce466afb9" internal_item_type="Normal">
+                          <internalitemvalue>%%%50%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                      <MarkdownSegment>
+                        <SegmentId>5f9717c8-3abd-4a03-b042-adb46f7472dd</SegmentId>
+                        <InternalNormalItem internal_item_id="68437814-08e4-4fc9-a605-8a2b2afec82d" internal_item_type="Normal">
+                          <internalitemvalue>%%%51%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="49f3dafe-291c-4f43-be52-52aa4073c9e9" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>5796dd2e-b9ba-4b68-a27f-ac1e16fc50ae</SegmentId>
+                        <InternalNormalItem internal_item_id="1117bbfa-4dbf-4664-8ad8-06e6c85f1886" internal_item_type="Normal">
+                          <internalitemvalue>%%%52%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="bc1f4136-4303-4290-b11a-7ebcbccfa081" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>11254395-3478-443e-8f20-8194245f09b1</SegmentId>
+                        <InternalNormalItem internal_item_id="2e62d93a-69f9-4ea1-ae26-c6c1f5e847af" internal_item_type="Normal">
+                          <internalitemvalue>%%%53%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="4f296000-aac4-40fa-8ab9-5d19a153d0cb" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>197a364d-f8bb-4db9-863d-fce789d1f429</SegmentId>
+                        <InternalNormalItem internal_item_id="254cb6e1-6688-41e9-86e6-f72e176c8070" internal_item_type="Normal">
+                          <internalitemvalue>%%%54%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="50518308-b2a9-45d9-8e20-6d362f4bb4cc" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>baceea7b-2057-4de6-af03-362a219dc9ba</SegmentId>
+                        <InternalNormalItem internal_item_id="2b2a0f6a-9664-4f34-aed9-d319ef7b95c7" internal_item_type="Normal">
+                          <internalitemvalue>%%%55%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="55edcb98-5c4e-4cff-ac0c-fb80e0859e8a" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>f5eccf36-a806-4132-9643-e25e0ffbbe2f</SegmentId>
+                        <InternalNormalItem internal_item_id="3b312ae5-da2e-43d5-8792-a0bf0e6574c9" internal_item_type="Normal">
+                          <internalitemvalue>%%%56%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="8f45bcde-94e5-486e-a9c4-5d6bf8385d53" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>44d54d46-0439-41bd-8992-1c8ddc1b85b1</SegmentId>
+                        <InternalNormalItem internal_item_id="40099dca-194d-45fa-8715-a031e6cdf7da" internal_item_type="Normal">
+                          <internalitemvalue>%%%57%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="4b3c4413-0b5a-4360-b3f2-af901923d13d" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>b94d1b7c-0750-41b3-8c91-4d4e6aee2406</SegmentId>
+                        <InternalNormalItem internal_item_id="bedc23e0-1d07-463d-a3fc-b0bf1af6fbdc" internal_item_type="Normal">
+                          <internalitemvalue>%%%58%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                      <MarkdownSegment>
+                        <SegmentId>7bd99536-a7ac-48ea-b36b-955cc2232106</SegmentId>
+                        <InternalNormalItem internal_item_id="55d80c17-0a08-4c7a-9a5d-3c6717a290a5" internal_item_type="Normal">
+                          <internalitemvalue>%%%59%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="56a70965-2fdf-4f87-a60a-cc919b14c6a8" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>96486680-4a84-4ff6-a967-12d926a7625a</SegmentId>
+                        <InternalNormalItem internal_item_id="b7251f60-1006-48ce-b692-542991485c72" internal_item_type="Normal">
+                          <internalitemvalue>%%%60%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="6dd4a7f5-fd94-414f-8063-4ecc5bf98874" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>8e052ad4-a22d-4ce3-a389-7fa3fee25a09</SegmentId>
+                        <InternalNormalItem internal_item_id="5f4fb935-8830-4d07-9d94-a9dd0e6ba2fd" internal_item_type="Normal">
+                          <internalitemvalue>%%%61%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="3afe4c02-220a-4ac5-a523-bbe66b5b3461" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>85b560cb-ee12-4af6-a107-27dceb64087d</SegmentId>
+                        <InternalNormalItem internal_item_id="c2cac0ca-c88b-4a7a-9ca6-7d9f2d9f8aa6" internal_item_type="Normal">
+                          <internalitemvalue>%%%62%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+                <ListItem>
+                  <MarkdownParagraphBlock item_id="6223e877-6a01-4817-9095-4f445ddf2507" item_type="NormalParagraph">
+                    <paragraph_segments>
+                      <MarkdownSegment>
+                        <SegmentId>1df22350-2319-498b-8717-5be69f0c5b0a</SegmentId>
+                        <InternalNormalItem internal_item_id="c52ea012-0191-4627-81af-1c9f1000f128" internal_item_type="Normal">
+                          <internalitemvalue>%%%63%%%</internalitemvalue>
+                        </InternalNormalItem>
+                      </MarkdownSegment>
+                    </paragraph_segments>
+                  </MarkdownParagraphBlock>
+                </ListItem>
+              </inner_list_items>
+              <ListType>Charactor</ListType>
+            </MarkdownListBlock>
+          </MarkdownContent>
+        </block_element>
+      </markdown_skeleton_root>
+    </xliffext:content>
+  </xliffext:skl>
+</xliffext:root>
